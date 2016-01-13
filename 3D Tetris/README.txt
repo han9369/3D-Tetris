@@ -4,7 +4,6 @@ CMPT361-Assignment#2-FruitTetris3D-README
 
 
 Name: Han Gao       
-Student number:301187146
 
 Complete all steps and bonus mark
 
